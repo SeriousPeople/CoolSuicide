@@ -1,1 +1,18 @@
-asdf
+1. Restful이란 무엇인가
+  - Restful의 특징
+2. https의 동작 원리
+3. 3way, 4way handshake 의 차이점
+4. 좋은 hash function이란?
+5. Java에서 해시 테이블이 어떻게 구현되어 있는지
+6. Java 최신 버전, 특징
+7. Java GC란 무엇인가
+8. 메모리 리크 발생시
+9. 세마포어란 무엇인가
+10. Semaphore, Spinlock 차이점
+11. 퀵소트, 머지소트의 차이점
+12. 트랜잭션 격리레벨 설명
+13. Undo, Redo 로그 정의와 차이점
+14. 인덱스의 구조가 B+ Tree인 이유
+15. mysql 실행계획에 대해 설명하시오
+16. Join의 종류
+17. Sync, Async와 Blocking I/O, Non-Blocking I/O 차이점
